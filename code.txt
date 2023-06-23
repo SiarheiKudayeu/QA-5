@@ -4,3 +4,7 @@ hello world!
 {
 new block
 }
+
+{
+new block 2
+}
